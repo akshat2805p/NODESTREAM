@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=VectorShift+Frontend;Visual+Pipeline+Builder;Build+Flows+Visually" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=008000&center=true&vCenter=true&width=600&lines=VectorShift+Frontend;Visual+Pipeline+Builder;Build+Flows+Visually" alt="Typing SVG" /></a>
 
   <p align="center">
     <strong>A Powerful, Node-Based Visual Pipeline Builder</strong>
